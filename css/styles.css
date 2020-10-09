@@ -1,3 +1,22 @@
+/*font-family: 'Merriweather', serif;
+font-family: 'Oswald', sans-serif;*/
+
 h1{
-    color:#5f7eaa;
+    color: #060E0D;
+    font-family: 'Oswald', sans-serif;
+    background: #EEF7FC
+}
+
+.menu {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+p {
+    font-family: 'Merriweather', serif;
+    background: #EEF7FC
+}
+
+*{
+    background: #67a1e0
 }
