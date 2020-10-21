@@ -1,6 +1,14 @@
 /*font-family: 'Merriweather', serif;
 font-family: 'Oswald', sans-serif;*/
 
+*{
+    background: #67a1e0
+}
+
+nav{
+    background: #EEF7FC
+}
+
 h1{
     color: #060E0D;
     font-family: 'Oswald', sans-serif;
@@ -15,8 +23,4 @@ h1{
 p {
     font-family: 'Merriweather', serif;
     background: #EEF7FC
-}
-
-*{
-    background: #67a1e0
 }
